@@ -11,7 +11,7 @@ import "./stakeToken.sol";
 
 pragma solidity ^0.8.17;
 
-contract AMM {
+contract UniVault {
 //全局变量    
 
     uint feeForLp;
